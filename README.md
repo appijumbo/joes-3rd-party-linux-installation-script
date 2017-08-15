@@ -1,4 +1,5 @@
-# Joes Collin's 3rd Party Linux Installation Script
+# Joes Collin's [3rd Party Linux Installation Script](http://www.ezeelinux.com/news/ubuntu-16-04-3rd-party-install-scirpt/)
+
 
 ubuntu-16-3rd-party-install.sh
 
